@@ -10,3 +10,6 @@
 4] IR led 
 5] 12v to 5v logic converter [buck converter]
 6] 12v adapter 
+
+
+Sorry for the very untidy circuit diagram.
